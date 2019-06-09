@@ -1,0 +1,4 @@
+#!/bin/sh
+cd `dirname $0`
+../src/SimpleFlooding -n .:../src $* -u Cmdenv
+# for shared lib, use: opp_run -l ../src/simpleflooding -n .:../src $*
