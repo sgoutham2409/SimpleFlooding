@@ -1,3 +1,7 @@
+# Links for R resource
+#http://www.cookbook-r.com/
+#http://www.sthda.com/english/
+
 #Set the working directory 
 setwd('/home/shivaram/UPB/CMS_C2X_Lab/C2X_Labs/Lab01/edca/simulations/results/csvFiles/csvCopies')
 
